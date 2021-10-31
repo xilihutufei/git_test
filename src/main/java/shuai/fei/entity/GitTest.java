@@ -14,6 +14,8 @@ public class GitTest {
     private Double getPrise;
     private List<Integer> gits;
 
+    private String change1;
+
     public GitTest() {
     }
 
