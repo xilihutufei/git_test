@@ -16,6 +16,8 @@ public class GitTest {
 
     private String change1;
 
+    private String change2;
+
     public GitTest() {
     }
 
